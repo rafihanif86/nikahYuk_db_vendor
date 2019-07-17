@@ -1,0 +1,6 @@
+{
+  "vendor": [
+    { "id": 1, "name": "Lolila", "phone": "08123497661", "address": "Jalan Kiyai Maskur no.31 Malang", "image": null, "username": "lolila", "password": "lolila", "jumlah": 0 },
+    { "id": 1, "name": "Natasya Wedding Organizer", "phone": "08598299321", "address": "Jalan Maijen Panjaitan no.50 Malang", "image": null, "username": "natasya", "password": "lolila", "jumlah": 0 }
+  ]
+}
